@@ -1,0 +1,7 @@
+﻿src/ChatGptTelegramBot/_accessKeys.csv
+src/ChatGptTelegramBot/_deploy.bat
+src/ChatGptTelegramBot/_test.bat
+test/ChatGptTelegramBot.Tests/bin
+test/ChatGptTelegramBot.Tests/obj
+src/ChatGptTelegramBot/bin
+src/ChatGptTelegramBot/obj
